@@ -1,4 +1,4 @@
-![image](https://github.com/nathanael-han/simple-chat-app/assets/140028002/c4a6528e-b782-4439-9246-63ec8ef8dbd4)# simple-chat-app
+# simple-chat-app
 Modern and Mobile Front-End Web Design II Course — Assignment 10
 
 
