@@ -21,7 +21,7 @@ Modern and Mobile Front-End Web Design II Course — Assignment 10
 7.)	Return to original tab to view messages from new username
 
 
-![Site Image]()
+![Site Image](https://github.com/nathanael-han/simple-chat-app/blob/main/chat-snap.png)
 
 
 
